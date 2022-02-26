@@ -1,30 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32210.238
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SimpleWebSite_Site", "SimpleWebSite_Site\", "{767BB24A-D53B-4856-9EF1-A939930A563B}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_2167"
-		Debug.AspNetCompiler.PhysicalPath = "SimpleWebSite_Site\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2167\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_2167"
-		Release.AspNetCompiler.PhysicalPath = "SimpleWebSite_Site\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2167\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "2167"
-		SlnRelativePath = "SimpleWebSite_Site\"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebSite", "SimpleWebSite\SimpleWebSite.csproj", "{48C0D32C-5642-4CF9-A250-DC11DD221553}"
 EndProject
 Global
@@ -33,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{767BB24A-D53B-4856-9EF1-A939930A563B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{767BB24A-D53B-4856-9EF1-A939930A563B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{767BB24A-D53B-4856-9EF1-A939930A563B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{767BB24A-D53B-4856-9EF1-A939930A563B}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{48C0D32C-5642-4CF9-A250-DC11DD221553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{48C0D32C-5642-4CF9-A250-DC11DD221553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48C0D32C-5642-4CF9-A250-DC11DD221553}.Release|Any CPU.ActiveCfg = Release|Any CPU
